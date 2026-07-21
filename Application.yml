@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<github-username>/demo.git
+    repoURL: https://github.com/pragya25joshilti/demo.git
     targetRevision: HEAD
     path: .
 
